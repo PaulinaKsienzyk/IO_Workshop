@@ -1,0 +1,18 @@
+:icons: font
+= Input/Output Workshops
+
+Let's refresh some information about inputs and outputs. Let them prepare you for the next workshops, the level of which we
+will slightly raise!
+
+.Agenda
+. File and directory.
+. Writing object to the file.
+. Reading a file.
+
+NOTE: Now we look at the package java.io. If you want to know more, see https://www3.ntu.edu.sg/home/ehchua/programming/java/J5b_IO.html
+
+CAUTION: Beaware for exceptions. Handle them, don't leave `e.printStackTrace ()`!
+
+Enjoy!.
+
+Begin with: paulinaksienzyk.com.github.task1.FileManager
