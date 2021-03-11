@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /**
  * Below are 3 methods you need to implement. Two of them will allow you to see some quick ways to get files in a given
- * folder. And just read the file. Again.
+ * folder.
  *
  * Your next task is task2, start with {@code SimpleScanner} class.
  */
