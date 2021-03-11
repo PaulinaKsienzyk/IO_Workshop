@@ -1,7 +1,9 @@
 package paulinaksienzyk.com.github.task2;
 
 /**
- * Your task is to write a simple scanner that reads floating point numbers.
+ * Your job is to write a simple scanner that reads floating point numbers.
+ *
+ * Your next task is task3, start with {@code PersonSerializer} class.
  */
 public class SimpleScanner {
 
