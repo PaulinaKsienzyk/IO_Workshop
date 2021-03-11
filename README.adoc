@@ -6,7 +6,7 @@ will slightly raise!
 
 .Agenda
 . File and directory.
-. Scanner.
+. Simple Scanner.
 . Writing object to the file.
 
 NOTE: Now we look at the package java.io. If you want to know more, see https://www3.ntu.edu.sg/home/ehchua/programming/java/J5b_IO.html
