@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /**
  * Below are 3 methods you need to implement. Two of them will allow you to see some quick ways to get files in a given
- * folder.
+ * directory.
  *
  * Your next task is task2, start with {@code SimpleScanner} class.
  */
@@ -27,8 +27,8 @@ public class FileManager {
     }
 
     /**
-     * @param dir where we want to find files/folders
-     * @return an array of the names of all files in this folder
+     * @param dir where we want to find files/directories
+     * @return an array of the names of all files in this directory
      */
     static String[] getNamesOfAllFiles(File dir){
         // TODO 1. Find all files in specific dir. Tip: see File API and its methods.
@@ -36,8 +36,8 @@ public class FileManager {
     }
 
     /**
-     * @param dir where we want to find files/folders
-     * @return an array of the names of text files in this folder
+     * @param dir where we want to find files/directories
+     * @return an array of the names of text files in this directory
      */
     static String[] getNamesOfAllTextFiles(File dir) {
         // TODO 2. Find all files with .txt extension in specific dir. Use FilenameFilter.
